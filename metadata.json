@@ -1,0 +1,8 @@
+{
+  "name": "Mohalla helpline ",
+  "description": "On-demand local service professional directory and booking platform for home repairs, maintenance, and technical services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
